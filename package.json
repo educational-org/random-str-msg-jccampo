@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-jccampo",
+  "version": "1.0.0",
+  "description": "Radom String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCCampo95/random-str-msg-jccampo.git"
+  },
+  "keywords": [],
+  "author": "Juan Camilo juanccampo@gmail.com ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanCCampo95/random-str-msg-jccampo/issues"
+  },
+  "homepage": "https://github.com/JuanCCampo95/random-str-msg-jccampo#readme",
+  "bin":{
+    "random-str-msg-jccampo" : "./bin/global.js"
+  },
+  "preferGlobal": true
+}
